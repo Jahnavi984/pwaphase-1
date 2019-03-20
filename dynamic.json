@@ -1,0 +1,45 @@
+{
+  "basics":{
+    "img":"img/th9KT5DE9O.jpg",
+    "name":"Jahnavi",
+    "mailid":"jahnavi.mitta123@gmail.com",
+    "profession":"Software Engineer"
+  },
+  "career":{
+    "data":"I want an environment where I can utiize my skills"
+  },
+  "education":[
+    {
+      "sno":"1",
+      "degree":"b.tech",
+      "institute":"MITS",
+      "percent":"94%"
+    },
+    {
+      "sno":"2",
+      "degree":"inter",
+      "institute":"NJC",
+      "percent":"97%"
+    },
+    {
+      "sno":"3",
+      "degree":"S.S.C",
+      "institute":"G.V.M",
+      "percent":"93%"
+    }
+  ],
+  "skills":[
+    {
+       "ps":"C"
+    },
+    {
+       "ps":"C++"
+    },
+    {
+       "ps":"java"
+    },
+    {
+       "ps":"python"
+    }
+  ]
+}
